@@ -1,0 +1,5 @@
+*.pdf
+*.mat
+*.txt
+submit.m
+lib/
